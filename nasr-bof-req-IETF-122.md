@@ -60,6 +60,7 @@ The proponents believe that a new working group is required, but the request is 
          - Revision of https://datatracker.ietf.org/doc/draft-iannone-spring-srv6-pot/
 
 ## Previous Discussions/Meetings  
+### Agenda/Material/Minutes of the listed meetings can be found [HERE](https://github.com/ietf-nasr/NASR-Meetings)
 - NASR Interim Meeting 26 Feb 2025 (Scheduled)
 - NASR Interim Meeting 12 Feb 2025 (Scheduled)
 - NASR Interim Meeting 22 Jan 2025 (Scheduled)
