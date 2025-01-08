@@ -1,9 +1,9 @@
 # Name: NASR - 
 
 ## Description 
-Replace this with a few paragraphs describing the BOF request.
 
-Fill in the details below. Keep items in the order they appear here.
+<!-- Replace this with a few paragraphs describing the BOF request.
+Fill in the details below. Keep items in the order they appear here.-->
 
 In the Internet architecture, communicating entities blindly trust and use paths as determined by the control plane. These available path(s) are assumed to be usable, trustable, performant, and realizing the expected requirements. Communicating entities have very little information about the paths over which their traffic is carried, and have no available means to audit paths, beyond basic properties like latency, throughput, and congestion. However, increased demand in network security, privacy, robustness, and confidentiality makes tools for path properties accountability a necessity.
 
@@ -13,26 +13,38 @@ Clients with high security and privacy requirements are not anymore satisfied wi
 
 
 ## Required Details
+
 - Status: WG Forming
 - Responsible AD: Deb Cooley
 - BOF proponents: Luigi Iannone (luigi.iannone@huawei.com); Nancy Cam-Winget (ncamwing@cisco.com)
-- Number of people expected to attend: 150
+- Number of people expected to attend: ~100
 - Length of session (1 or 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
    - Chair Conflicts: LISP; 6LO; 
-   - Technology Overlap: RATS; PANRG; SAVNET, SIDROPS
-   - Key Participant Conflict:  OAUTH, SCITT, SPRING, RTGWG
+   - Technology Overlap: RATS; PANRG; 
+   - Key Participant Conflict:  OAUTH, SCITT, SPRING, RTGWG, SAVNET, SIDROPS
      
 ## Information for IAB/IESG
-To allow evaluation of your proposal, please include the following items:
 
+<!-- 
+To allow evaluation of your proposal, please include the following items:
 - Any protocols or practices that already exist in this space:
 - Which (if any) modifications to existing protocols or practices are required:
 - Which (if any) entirely new protocols or practices are required:
 - Open source projects (if any) implementing this work:
+-->
 
-The proponents believe that a new working group is required, but the request is for a non-WG forming BoF. However, the proponents, with the help of interested persons, are already actively working on various items, namely on a draft charter text, a proposed architecture document and other potential deliverables. Discussion on the progress on these items will be part of the agenda.
+Since the previous non-WG forming BoF in IETF 120, the group of interested person have worked on the feedback received. Clarification on the difference with SAVNET has been agreed. Presentation of the effort in the PAN RG has been done in IETF 121. Scope has been revised to clarify that NASR will focus on accountable forwarding, not working on new routing proposals. Problem statement has been refine accordingly. Various interested persons are actively working on various items, like the architecture, the service model, an use-case and requirement document. Presentation and discussion on the changes since the previous BoF and progress on these items will be part of the agenda.
 
+- Any protocols or practices that already exist in this space:
+  - Technology developed by the RATS WG  is relevant to this proposal.
+- Which (if any) modifications to existing protocols or practices are required:
+  - May be some extension to RATS.
+- Which (if any) entirely new protocols or practices are required:
+  - Evidence collection and verification for path attestation
+  - Proof of transit technology
+- Open source projects (if any) implementing this work
+  - None
 
 ## Agenda
    - Note Well and Agenda Bashing - Chairs
