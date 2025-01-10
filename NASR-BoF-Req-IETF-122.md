@@ -46,9 +46,6 @@ Presentation and discussion on the changes since the previous BoF and progress o
 
 - Any protocols or practices that already exist in this space:
   - Technology developed by the RATS WG is relevant to this proposal.
-- Which (if any) entirely new protocols or practices are required:
-  - Evidence collection and verification for path attestation.
-  - Proof of transit technology.
 
 ## Agenda
 
