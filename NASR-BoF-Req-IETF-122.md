@@ -1,11 +1,14 @@
-# Name: NASR - 
+# Name: NASR - Network Attestation for Secured foRwarding
 
-## Description 
+## Description
 
 <!-- Replace this with a few paragraphs describing the BOF request.
 Fill in the details below. Keep items in the order they appear here.-->
 
-In the Internet architecture, communicating entities blindly trust and use paths as determined by the control plane. These available path(s) are assumed to be usable, trustable, performant, and realizing the expected requirements. Communicating entities have very little information about the paths over which their traffic is carried, and have no available means to audit paths, beyond basic properties like latency, throughput, and congestion. However, increased demand in network security, privacy, robustness, and confidentiality makes tools for path properties accountability a necessity.
+In the current network deployments, communicating entities implicitly rely on peer entities and use paths as determined by the control plane.
+These available path(s) are implicitly trusted.
+Communicating entities have very little information about the entities in the paths over which their traffic is carried, and have no available means to audit the entities and paths, beyond basic properties like latency, throughput, and congestion.
+However, increased demand in network security, privacy, and robustness makes tools for enabling visibility of the entities' security posture a necessity.
 
 Path-agnostic traffic signing and encryption has been insofar the primary method to ensure data confidentiality, integrity and authenticity. However, an increasing amount of attacks, vulnerabilities, and new emerging requirements are deeming the data security provided by such methods insufficient
 
