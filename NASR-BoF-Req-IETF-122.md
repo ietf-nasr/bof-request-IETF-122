@@ -85,7 +85,7 @@ Presentation and discussion on the changes since the previous BoF and progress o
 - NASR Interim Meeting 12 Feb 2025 (Scheduled)
 - NASR Interim Meeting 22 Jan 2025 (Scheduled)
 - NASR Interim Meeting 08 Jan 2025
-- NASR Interim Meeting 11 Dic 2024
+- NASR Interim Meeting 11 Dec 2024
 - NASR Interim Meeting 27 Nov 2024
 - NASR Side meeting @ IETF 121
 - NASR not WG forming BOF @ IETF 120
