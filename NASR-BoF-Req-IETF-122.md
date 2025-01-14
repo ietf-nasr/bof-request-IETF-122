@@ -17,6 +17,7 @@ With these additional security and privacy requirements, there is a need to prov
 Specifically, to satisfy the visibility of the network elements' security state, proof that data is traversed through network elements (devices, links and services) that satisfy security posture claims to avoid exposure of unqualified elements is needed.
 
 ## Required Details
+
 - Status: WG Forming
 - Responsible AD: Deb Cooley
 - BOF proponents: Luigi Iannone (luigi.iannone@huawei.com); Nancy Cam-Winget (ncamwing@cisco.com)
@@ -26,7 +27,6 @@ Specifically, to satisfy the visibility of the network elements' security state,
   - Chair Conflicts: LISP; 6LO; SCIM, WIMSE, OAUTH, SPICE, TEEP
   - Technology Overlap: RATS; PANRG; SAVNET, SIDROPS
   - Key Participant Conflict:  OAUTH, SCITT, SPRING, RTGWG
-
 
 ## Information for IAB/IESG
 
@@ -39,8 +39,8 @@ To allow evaluation of your proposal, please include the following items:
 -->
 
 The proponents believe that a new working group is required.
-Since the previous non-WG forming BoF in IETF 120, the proponents have been meeting to provide a proposed charter that describes the problem statement and initial scope.
-In accordance to the feedback received from the IAB the intended work has been presented at PANRG during IETF 121.
+Since the previous non-WG forming BoF in IETF 120, the proponents have been meeting to provide a proposed charter that describes the problem statement and initial scope (including re-defining the NASR acronym, now *Network Attestation for Secured foRwarding*).
+In accordance to the feedback received from the IAB the intended work has been presented at PANRG during IETF 121 and received positive feedback.
 Some drafts have also been authored by individuals to serve as starting points to highlight the current challenges and proposed use cases that can be used to reinforce the problem statement and proposed charter.
 Presentation and discussion on the changes since the previous BoF and progress on these items will be part of the agenda.
 
@@ -51,7 +51,7 @@ Presentation and discussion on the changes since the previous BoF and progress o
 
 - Note Well and Agenda Bashing - Chairs
 - Why are we here? - Chairs
-  - Summary feedback previous BoF and how concerns have been addressed
+  - Summary of the feedback received at the previous BoF and how concerns have been addressed
 - Internet-Drafts, speakers, timing
   - TBD
 - Open Mic Discussion
@@ -59,8 +59,9 @@ Presentation and discussion on the changes since the previous BoF and progress o
 - Explore consensus and next steps
 
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
+
 - Mailing List: https://www.ietf.org/mailman/listinfo/nasr
-- Draft charter: https://github.com/ietf-nasr/NASR-Charter
+- Draft Charter: https://github.com/ietf-nasr/NASR-Charter
 - Relevant Internet-Drafts:
   - Requirements:
     - https://datatracker.ietf.org/doc/draft-liu-nasr-requirements/
@@ -71,11 +72,14 @@ Presentation and discussion on the changes since the previous BoF and progress o
   - Path Attestation Claims Set:
     - In Progress
   - Proof of Transit:
-    - Revision of https://datatracker.ietf.org/doc/draft-iannone-spring-srv6-pot/
+    - Generalized Proof of Transit requirements
+      - In progress
+    - Related documents:
+      - https://datatracker.ietf.org/doc/draft-iannone-spring-srv6-pot/
 
 ## Previous Discussions/Meetings  
 
-### Agenda/Material/Minutes of the listed meetings can be found [HERE](https://github.com/ietf-nasr/NASR-Meetings)
+### Agenda/Material/Minutes of the listed meetings can be found [on GitHub](https://github.com/ietf-nasr/NASR-Meetings)
 
 - NASR Interim Meeting 26 Feb 2025 (Scheduled)
 - NASR Interim Meeting 12 Feb 2025 (Scheduled)
@@ -85,5 +89,5 @@ Presentation and discussion on the changes since the previous BoF and progress o
 - NASR Interim Meeting 27 Nov 2024
 - NASR Side meeting @ IETF 121
 - NASR not WG forming BOF @ IETF 120
-- Path Validation Side Meeting @IETF 118.
 - NASR Side Meeting @IETF 119
+- Path Validation Side Meeting @IETF 118.
