@@ -90,4 +90,4 @@ Presentation and discussion on the changes since the previous BoF and progress o
 - NASR Side meeting @ IETF 121
 - NASR not WG forming BOF @ IETF 120
 - NASR Side Meeting @IETF 119
-- Path Validation Side Meeting @IETF 118.
+- Path Validation Side Meeting @IETF 118
