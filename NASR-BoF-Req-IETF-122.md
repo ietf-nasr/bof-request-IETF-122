@@ -24,9 +24,9 @@ Specifically, to satisfy the visibility of the network elements' security state,
 - Number of people expected to attend: 150
 - Length of session (1 or 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
-  - Chair Conflicts: LISP; 6LO; SCIM, WIMSE, OAUTH, SPICE, TEEP
-  - Technology Overlap: RATS; PANRG; SAVNET, SIDROPS
-  - Key Participant Conflict:  OAUTH, SCITT, SPRING, RTGWG
+  - Chair Conflicts: LISP; 6LO; SCIM; WIMSE; OAUTH; SPICE; TEEP;
+  - Technology Overlap: RATS; PANRG; SAVNET; SIDROPS; IPSECME; PCE;
+  - Key Participant Conflict:  OAUTH; SCITT; SPRING; RTGWG;
 
 ## Information for IAB/IESG
 
