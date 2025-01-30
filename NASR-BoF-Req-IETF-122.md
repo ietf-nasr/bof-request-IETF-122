@@ -49,14 +49,25 @@ Presentation and discussion on the changes since the previous BoF and progress o
 
 ## Agenda
 
-- Note Well and Agenda Bashing - Chairs
-- Why are we here? - Chairs
+- Opening
+  - Note Well and Agenda Bashing 
+    - 10 Minutes
+- Why are we here? 
   - Summary of the feedback received at the previous BoF and how concerns have been addressed
-- Internet-Drafts, speakers, timing
-  - TBD
-- Open Mic Discussion
+    - 20 Minutes
+- Use Case & Problem Statement 
+  - Lac Leman Example
+  - Very Short summary of main use cases
+  - Abstract Problem Formulation
+    - 30 Minutes
+  - Proposed Charter Discussion 
+    - 20 Minutes
+- Open Mic Discussion 
   - Feedback from the community
-- Explore consensus and next steps
+    - 20 Minutes
+- Closure
+  - Explore consensus and next steps 
+    - 20 Minutes
 
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
 
