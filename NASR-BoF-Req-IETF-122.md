@@ -40,7 +40,7 @@ To allow evaluation of your proposal, please include the following items:
 
 The proponents believe that a new working group is required.
 Since the previous non-WG forming BoF in IETF 120, the proponents have been meeting to provide a proposed charter that describes the problem statement and initial scope (including re-defining the NASR acronym, now *Network Attestation for Secured foRwarding*).
-In accordance to the feedback received from the IAB the intended work has been presented at PANRG during IETF 121 and received positive feedback.
+In accordance to the feedback received from the IAB the intended work has been presented at PANRG during IETF 121 and received positive feedback after the session.
 Some drafts have also been authored by individuals to serve as starting points to highlight the current challenges and proposed use cases that can be used to reinforce the problem statement and proposed charter.
 Presentation and discussion on the changes since the previous BoF and progress on these items will be part of the agenda.
 
@@ -51,20 +51,19 @@ Presentation and discussion on the changes since the previous BoF and progress o
 
 - Opening
   - Note Well and Agenda Bashing 
-    - 10 Minutes
-- Why are we here? 
-  - Summary of the feedback received at the previous BoF and how concerns have been addressed
-    - 20 Minutes
+    - 5 Minutes
 - Use Case & Problem Statement 
   - Lac Leman Example
   - Very Short summary of main use cases
-  - Abstract Problem Formulation
-    - 30 Minutes
-  - Proposed Charter Discussion 
-    - 20 Minutes
+  - Problem Formulation
+    - 35 Minutes
+- Proposed Charter Discussion
+  - 1st BoF Feedback
+  - Proposed Charter Overview
+    - 35 Minutes
 - Open Mic Discussion 
   - Feedback from the community
-    - 20 Minutes
+    - 25 Minutes
 - Closure
   - Explore consensus and next steps 
     - 20 Minutes
