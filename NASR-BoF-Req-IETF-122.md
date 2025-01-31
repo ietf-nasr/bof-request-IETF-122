@@ -24,9 +24,9 @@ Specifically, to satisfy the visibility of the network elements' security state,
 - Number of people expected to attend: 150
 - Length of session (1 or 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
-  - Chair Conflicts: LISP; 6LO; SCIM, WIMSE, OAUTH, SPICE, TEEP
-  - Technology Overlap: RATS; PANRG; SAVNET, SIDROPS
-  - Key Participant Conflict:  OAUTH, SCITT, SPRING, RTGWG
+  - Chair Conflicts: LISP; 6LO; SCIM; WIMSE; OAUTH; SPICE; TEEP;
+  - Technology Overlap: RATS; PANRG; SAVNET; SIDROPS; IPSECME; PCE;
+  - Key Participant Conflict:  OAUTH; SCITT; SPRING; RTGWG;
 
 ## Information for IAB/IESG
 
@@ -100,4 +100,4 @@ Presentation and discussion on the changes since the previous BoF and progress o
 - NASR Side meeting @ IETF 121
 - NASR not WG forming BOF @ IETF 120
 - NASR Side Meeting @IETF 119
-- Path Validation Side Meeting @IETF 118.
+- Path Validation Side Meeting @IETF 118
