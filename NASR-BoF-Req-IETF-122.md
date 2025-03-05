@@ -83,8 +83,8 @@ Presentation and discussion on the changes since the previous BoF and progress o
 
 ### Agenda/Material/Minutes of the listed meetings can be found [on GitHub](https://github.com/ietf-nasr/NASR-Meetings)
 
-- NASR Interim Meeting 26 Feb 2025 (Scheduled)
-- NASR Interim Meeting 12 Feb 2025 (Scheduled)
+- NASR Interim Meeting 26 Feb 2025
+- NASR Interim Meeting 12 Feb 2025
 - NASR Interim Meeting 22 Jan 2025 
 - NASR Interim Meeting 08 Jan 2025
 - NASR Interim Meeting 11 Dec 2024
